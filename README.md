@@ -1,5 +1,11 @@
 <h1 align="center">Hi 👋, I'm Pathum Rathnayaka</h1>
-<h3 align="center">A passionate full-stack developer from Srilanka</h3><br>
+<h3 align="center"></h3><br>
+
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=700&height=100&lines=A+passionate+full-stack+developer+from+Srilanka;Self-taught+Front-End+Developer,;Computer+Science+Student,;Active+Learner/Researcher,;"></a>
+</p>
+
+
 <picture> <img align="center" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pathumrathnayaka&label=Profile%20views&color=0e75b6&style=flat" alt="pathumrathnayaka" /> </p>
