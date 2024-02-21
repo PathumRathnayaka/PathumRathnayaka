@@ -10,7 +10,7 @@
 - 📫 How to reach me **thilinapathumrathnayaka@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
+<img align="right" width=250px height=250px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 <p align="left">
 <a href="https://twitter.com/thilina_pathum_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="thilina_pathum_" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/pathum rathnayaka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pathum rathnayaka" height="30" width="40" /></a>
