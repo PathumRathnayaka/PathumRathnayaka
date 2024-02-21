@@ -1,11 +1,14 @@
 <h1 align="center">Hi 👋, I'm Pathum Rathnayaka</h1>
-<h3 align="center">A passionate full-stack developer from Srilanka</h3>
+<h3 align="center">A passionate full-stack developer from Srilanka</h3><br>
+<picture> <img align="center" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pathumrathnayaka&label=Profile%20views&color=0e75b6&style=flat" alt="pathumrathnayaka" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pathumrathnayaka" alt="pathumrathnayaka" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/thilina_pathum_" target="blank"><img src="https://img.shields.io/twitter/follow/thilina_pathum_?logo=twitter&style=for-the-badge" alt="thilina_pathum_" /></a> </p>
+<br>
+
 
 - 📫 How to reach me **thilinapathumrathnayaka@gmail.com**
 
