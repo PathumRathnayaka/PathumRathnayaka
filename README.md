@@ -12,6 +12,7 @@
 <picture> <img align="center" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 <p>- <i>A comp-sci undergraduate student and a aspiring software developer with good problem-solving skills. Able to perform well in a team. Passionate about coding and equipped with a diverse and promising skill-set, placing a special emphasis on writing good quality code. Also regularly write technical content and articles for various popular tech sites.</i></p>
 
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pathumrathnayaka&label=Profile%20views&color=0e75b6&style=flat" alt="pathumrathnayaka" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pathumrathnayaka" alt="pathumrathnayaka" /></a> </p>
