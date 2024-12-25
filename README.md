@@ -19,6 +19,13 @@
 
 <p align="left"> <a href="https://twitter.com/thilina_pathum_" target="blank"><img src="https://img.shields.io/twitter/follow/thilina_pathum_?logo=twitter&style=for-the-badge" alt="thilina_pathum_" /></a> </p>
 <br>
+<h3 align="left">Skills:</h3>
+- Programming: Python, JavaScript, C++, SQL, Java
+- Web & Mobile Development: React, React Native, Node.js, HTML/CSS
+- AI/ML Tools: TensorFlow, PyTorch
+- Data Analysis: pandas, numpy, R
+- Cloud & Databases: AWS, MongoDB, MySQL
+- Digital Marketing: Google Ads, SEO, Analytics
 
 
 - 📫 How to reach me **thilinapathumrathnayaka@gmail.com**<br>
