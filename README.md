@@ -21,14 +21,14 @@
 <br>
 <h3 align="left"><b>Skills:</b></h3>
 <ul>
-  <li><b>Programming:</b> Python, JavaScript, C++, SQL, Java</li>
-  <li><b>Web & Mobile Development:</b> React, React Native, Node.js, HTML/CSS</li>
-  <li><b>AI/ML Tools:</b> TensorFlow, PyTorch</li>
-  <li><b>Data Analysis:</b> pandas, numpy, R</li>
-  <li><b>Cloud & Databases:</b> AWS, MongoDB, MySQL</li>
-  <li><b>Digital Marketing:</b> Google Ads, SEO, Analytics</li>
+  <li><b>Programming:</b>   Python, JavaScript, C++, SQL, Java</li>
+  <li><b>Web & Mobile Development:</b>   React, React Native, Node.js, HTML/CSS</li>
+  <li><b>AI/ML Tools:</b>   TensorFlow, PyTorch</li>
+  <li><b>Data Analysis:</b>   pandas, numpy, R</li>
+  <li><b>Cloud & Databases:</b>   AWS, MongoDB, MySQL</li>
+  <li><b>Digital Marketing:</b>   Google Ads, SEO, Analytics</li>
 </ul>
-
+</br></br></br></br>
 
 - 📫 How to reach me **thilinapathumrathnayaka@gmail.com**<br>
 <img align="right" width=250px height=250px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
