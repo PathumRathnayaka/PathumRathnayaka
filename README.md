@@ -91,4 +91,6 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=pathumrathnayaka&theme=tokyonight" alt="mystreak"/>
 ![pathumrathnayaka's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pathumrathnayaka&theme=tokyonight&layout=compact)
 
+![Pathum's Graph](https://github-readme-activity-graph.vercel.app/graph?username=PathumRathnayaka&custom_title=Pathum's%20GitHub%20Activity%20Graph&bg_color=0d1017&color=e8edf3&line=e8edf3&point=e8edf3&area_color=FFFFFF&title_color=FFFFFF&area=true)
+
 
