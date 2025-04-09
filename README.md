@@ -19,36 +19,71 @@
 
 <p align="left"> <a href="https://twitter.com/thilina_pathum_" target="blank"><img src="https://img.shields.io/twitter/follow/thilina_pathum_?logo=twitter&style=for-the-badge" alt="thilina_pathum_" /></a> </p>
 <br>
-<h3 align="left"><b>Skills:</b></h3>
-<ul>
-  <li><b>Programming:</b>   Python, JavaScript, C++, SQL, Java</li>
-  <li><b>Web & Mobile Development:</b>   React, React Native, Node.js, HTML/CSS</li>
-  <li><b>AI/ML Tools:</b>   TensorFlow, PyTorch</li>
-  <li><b>Data Analysis:</b>   pandas, numpy, R</li>
-  <li><b>Cloud & Databases:</b>   AWS, MongoDB, MySQL</li>
-  <li><b>Digital Marketing:</b>   Google Ads, SEO, Analytics</li>
-</ul>
-</br></br></br></br>
 
-- 📫 How to reach me **thilinapathumrathnayaka@gmail.com**<br>
-<img align="right" width=250px height=250px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/thilina_pathum_" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234980676-61bfb021-ecc8-48f7-88e6-34c1b06c4a58.png" alt="thilina_pathum_" height="40" width="40" /></a>
-<a href="https://linkedin.com/in/pathum rathnayaka" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="pathum rathnayaka" height="40" width="40" /></a>
-<a href="https://stackoverflow.com/users/pathum-rathnayaka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="pathum-rathnayaka" height="30" width="40" /></a>
-<a href="https://fb.com/thilinapathum.rathnayaka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="thilinapathum.rathnayaka" height="30" width="40" /></a>
-<a href="https://instagram.com/pathum_rathnayaka___" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="pathum_rathnayaka___" height="40" width="40" /></a>
-<a href="https://medium.com/@thilinapathumrathnayaka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@thilinapathumrathnayaka" height="30" width="40" /></a>
-<a href="https://discord.com/users/pathum_rathnayaka" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="discord" height="40" width="40" /></a>
-</p>
+<!-- Tech Stack -->
+</br>
+<h2>Tech Stack</h2>
 
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
-
-
-
+<div>
+	<p style="display: inline-block;">
+	<p>
+		<kbd>
+			<kbd>Programming Languages</kbd>
+			<br>
+			<br>
+			<img alt="Python" src="https://img.shields.io/badge/Python-05122A?style=flat&logo=python">
+			<img alt="C" src="https://img.shields.io/badge/C-05122A?logo=c&style=flat">
+			<img alt="C++" src="https://img.shields.io/badge/C%2B%2B-05122A?logo=cplusplus&style=flat">
+			<img src="https://img.shields.io/badge/Shell%20Script-05122A?style=flat&logo=gnu-bash&logoColor=white" alt="Shell script">
+			<img alt="Java" src="https://img.shields.io/badge/Java-05122A?logo=openjdk&style=flat">
+		</kbd>
+	</p>
+	<p>
+		<kbd>
+			<kbd>Machine Learning</kbd>
+			<br>
+			<br>
+			<img alt="Tensorflow" src="https://img.shields.io/badge/Tensorflow-05122A?style=flat&logo=tensorflow">
+			<img alt="Numpy" src="https://img.shields.io/badge/Numpy-05122A?style=flat&logo=numpy">
+			<img alt="Pandas" src="https://img.shields.io/badge/Pandas-05122A?style=flat&logo=Pandas">
+			<img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-05122A?style=flat">
+			<img alt="Scikit-learn" src="https://img.shields.io/badge/Scikit--learn-05122A?style=flat&logo=Scikit-learn">
+			<img alt="Static Badge" src="https://img.shields.io/badge/OpenCV-05122A?style=flat&logo=OpenCV">
+		</kbd>
+	</p>
+	<p>
+		<kbd>
+			<kbd>Databases and Cloud Hosting</kbd>
+			<br>
+			<br>
+			<img alt="Github Pages" src="https://img.shields.io/badge/Github%20Pages-05122A?style=flat&logo=Github">
+			<img alt="MySql" src="https://img.shields.io/badge/MySql-05122A?style=flat&logo=MySql">
+			<img alt="Repl.it" src="https://img.shields.io/badge/Repl.it-05122A.svg?style=flat&logo=Replit">
+			<img src="https://img.shields.io/badge/AWS%20Amplify-05122A?style=flat&logo=amazon-aws&logoColor=white" alt="AWS">
+		</kbd>
+	</p>
+	<p>
+		<kbd>
+			<kbd>Software and Tools</kbd>
+			<br>
+			<br>
+			<img alt="Git" src="https://img.shields.io/badge/Git-05122A?style=flat&logo=Git">
+			<img alt="Github Desktop" src="https://img.shields.io/badge/Github%20Desktop-05122A?style=flat&logo=Github">
+			<img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-05122A?style=flat&logo=Jupyter">
+			<img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-05122A?style=flat&logo=Visual%20Studio%20Code">
+			<img alt="Neovim" src="https://img.shields.io/badge/Neovim-05122A?style=flat&logo=Neovim">
+			<img alt="Static Badge" src="https://img.shields.io/badge/Atom-05122A?style=flat">
+			<img alt="Canva" src="https://img.shields.io/badge/Canva-05122A?style=flat&logo=Canva">
+			<img alt="Medium" src="https://img.shields.io/badge/Medium-05122A?style=flat&logo=Medium">
+			<img alt="Static Badge" src="https://img.shields.io/badge/Google%20Colab-05122A?style=flat&logo=Google%20Colab">
+			<img alt="Static Badge" src="https://img.shields.io/badge/Notion-05122A?style=flat&logo=Notion">
+			<img alt="Static Badge" src="https://img.shields.io/badge/Leetcode-05122A?style=flat&logo=Leetcode">
+			<img alt="Static Badge" src="https://img.shields.io/badge/Codeforces-05122A?style=flat&logo=codeforces">
+			<img alt="Static Badge" src="https://img.shields.io/badge/StackOverflow-05122A?style=flat&logo=StackOverflow">
+		</kbd>
+	</p>
+    </p>
+</div>
 
 
 
