@@ -4,7 +4,7 @@
 <h3 align="center"></h3><br>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=700&height=100&lines=A+passionate+full-stack+developer+from+Srilanka;Self-taught+Front-End+Developer,;Computer+Science+Student,;Active+Learner/Researcher,;"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2IxYjczNjMxZTE4YTlmMjkxNGVhZGNkY2E2Zjk1NTA4MmNkMGJhNiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/qgQUggAC3Pfv687qPC/giphy.gif"></a>
 </p>
 
 
