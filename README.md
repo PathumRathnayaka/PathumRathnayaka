@@ -10,7 +10,7 @@
 
 
 <picture> <img align="center" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2IxYjczNjMxZTE4YTlmMjkxNGVhZGNkY2E2Zjk1NTA4MmNkMGJhNiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/qgQUggAC3Pfv687qPC/giphy.gif" width = 400px></picture>
-<p>- <i>A comp-sci undergraduate student and a aspiring software developer with good problem-solving skills. Able to perform well in a team. Passionate about coding and equipped with a diverse and promising skill-set, placing a special emphasis on writing good quality code. Also regularly write technical content and articles for various popular tech sites.</i></p>
+<p>- <i>If you ask me a question and I don't know the answer, I'm going to tell you that I don't know. But I bet you what, I know how to find the answer, and I will find the answer.</i></p>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pathumrathnayaka&label=Profile%20views&color=0e75b6&style=flat" alt="pathumrathnayaka" /> </p>
