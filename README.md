@@ -85,11 +85,39 @@
     </p>
 </div>
 
+<!-- Top Projects List -->
+</br>
+<h2>Top Projects</h2>
+<p>
+  <a href="https://github.com/PathumRathnayaka/Spotify-clone-front-end.git"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=PathumRathnayaka&repo=Spotify-clone-front-end&theme=dark&bg_color=0D1017&title_color=E8EDF3&hide_border=false&icon_color=E8EDF3&show_icons=false&border_radius=0" alt="Spotify-clone-front-end"></a>
+  <a href="https://github.com/PathumRathnayaka/Password-Manager.git">
+	  <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=PathumRathnayaka&repo=Password-Manager&theme=dark&bg_color=0D1017&title_color=E8EDF3&hide_border=false&icon_color=E8EDF3&show_icons=false&border_radius=0" alt="Password-Manager"></a>
+  <a href="https://github.com/PathumRathnayaka/Crop-Monitoring-System-React.git">
+	  <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=PathumRathnayaka&repo=Crop-Monitoring-System-React&theme=dark&bg_color=0D1017&title_color=E8EDF3&hide_border=false&icon_color=E8EDF3&show_icons=false&border_radius=0" alt="Crop-Monitoring-System-React">
+  </a>
+  </br>
+
+  
+  </p>
+  <p align="right">
+    <a href="https://github.com/PathumRathnayaka?tab=repositories"><img alt="Static Badge" src="https://img.shields.io/badge/All%20Projects-05122A?style=flat-square"></a>
+  </p>
 
 
-![pathumrathnayaka's github stats](https://github-readme-stats.vercel.app/api?username=pathumrathnayaka&show_icons=true&theme=tokyonight)
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=pathumrathnayaka&theme=tokyonight" alt="mystreak"/>
-![pathumrathnayaka's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pathumrathnayaka&theme=tokyonight&layout=compact)
+<!-- Current Stats card -->
+</br>
+<h2>Current Stats</h2>
+
+<div>
+<a href="https://github.com/PathumRathnayaka">
+      <img alt="Pathum's streak" src="https://github-readme-streak-stats-9m8ugfa77-denvercoder1.vercel.app/?user=PathumRathnayaka&theme=monokai-metallian&border_radius=0&card_width=417&card_height=194&background=0D1017&fire=E8EDF3&currStreakNum=E8EDF3&sideNums=E8EDF3&currStreakLabel=E8EDF3&sideLabels=E8EDF3F0&dates=E8EDF3D5&ring=E8EDF3F0&card_width=400&card_height=195"/>
+    </a>
+  <a href="https://github.com/PathumRathnayaka">
+<img src="https://github-readme-stats.vercel.app/api?username=PathumRathnayaka&show_icons=true&bg_color=0D1017&border_radius=0&text_color=E8EDF3D5&title_color=E8EDF3&icon_color=E8EDF3&hide_border=false&card_width=414&card_height=195"/>
+    </a>
+</div>
+
+
 
 ![Pathum's Graph](https://github-readme-activity-graph.vercel.app/graph?username=PathumRathnayaka&custom_title=Pathum's%20GitHub%20Activity%20Graph&bg_color=0d1017&color=e8edf3&line=e8edf3&point=e8edf3&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
