@@ -85,6 +85,29 @@
     </p>
 </div>
 
+
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 100px;">
+  <a href="https://www.youtube.com/@Gen_Prompt" target="_blank" rel="noopener noreferrer">
+    <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/097d0b23dcc0d22ba7710f6c113fafd321624a79/large/light/facebook.svg" width="40" alt="Facebook" />
+  </a>
+  <a href="https://www.youtube.com/@Gen_Prompt" target="_blank" rel="noopener noreferrer">
+    <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/097d0b23dcc0d22ba7710f6c113fafd321624a79/large/light/linkedin.svg" width="40" alt="LinkedIn" />
+  </a>
+  <a href="https://www.youtube.com/@Gen_Prompt" target="_blank" rel="noopener noreferrer">
+    <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/097d0b23dcc0d22ba7710f6c113fafd321624a79/large/light/youtube.svg" width="40" alt="YouTube" />
+  </a>
+  <a href="https://www.youtube.com/@Gen_Prompt" target="_blank" rel="noopener noreferrer">
+    <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/097d0b23dcc0d22ba7710f6c113fafd321624a79/large/light/instagram.svg" width="40" alt="Instagram" />
+  </a>
+  <a href="https://www.youtube.com/@Gen_Prompt" target="_blank" rel="noopener noreferrer">
+    <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/097d0b23dcc0d22ba7710f6c113fafd321624a79/large/light/medium.svg" width="40" alt="Medium" />
+  </a>
+  <a href="https://www.youtube.com/@Gen_Prompt" target="_blank" rel="noopener noreferrer">
+    <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/097d0b23dcc0d22ba7710f6c113fafd321624a79/large/light/tiktok.svg" width="40" alt="TikTok" />
+  </a>
+</div>
+ 
+
 <!-- Top Projects List -->
 </br>
 <h2>Top Projects</h2>
